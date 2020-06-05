@@ -18,7 +18,7 @@ Without this data, the goal of becoming a viable resource for those in need will
 
 ### Do we need a server at all?
 
-Undecided at this time.
+We have yet to identify any true need for a server at the time of launch.  All scrapers can be launched manually and from the developers local machine.
 
 ### Should we get consent from the businesses we list prior to listing them?
 
